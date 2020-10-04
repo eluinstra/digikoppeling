@@ -1,5 +1,5 @@
 ---
-layout: home
+layout: default
 ---
 
 Deze pagina bevat links naar open source software producten die kunnen worden ingezet voor de realisatie van Digikoppeling aansluitingen voor en met de Nederlandse overheid.
@@ -10,7 +10,7 @@ Deze pagina bevat links naar open source software producten die kunnen worden in
 
 #### Installatie and Configuratie
 
-- EbMS adapter [documentatie](https://eluinstra.github.io/ebms-admin/)
+- [EbMS adapter documentatie](https://eluinstra.github.io/ebms-admin/)
 
 #### Examples
 
@@ -29,7 +29,7 @@ Deze pagina bevat links naar open source software producten die kunnen worden in
 
 #### Installatie and Configuratie
 
-- [Installatie handleiding](https://eluinstra.github.io/digikoppeling_na/) Digikoppeling Nationaal Archief
+- [Installatie handleiding Digikoppeling Nationaal Archief](https://eluinstra.github.io/digikoppeling_na/)
 
 ## Grote Berichten Server NEW (Work in progess)
 
