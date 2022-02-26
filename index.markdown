@@ -23,7 +23,7 @@ Deze pagina bevat links naar open source software producten die kunnen worden in
 - [EbMS Admin](https://sourceforge.net/projects/muleebmsadapter/) and [mirror](https://github.com/eluinstra/ebms-admin)
 - [EbMS core library](https://sourceforge.net/projects/javaebmsadmin/) and [mirror](https://github.com/eluinstra/ebms-core)
 
-## Grote Berichten Server & Client
+## Grote Berichten File Server & Client
 
 - [FileServer](https://github.com/eluinstra/file-server)
 - [FileClient](https://github.com/eluinstra/file-client)
