@@ -23,6 +23,11 @@ Deze pagina bevat links naar open source software producten die kunnen worden in
 - [EbMS Admin](https://sourceforge.net/projects/muleebmsadapter/) and [mirror](https://github.com/eluinstra/ebms-admin)
 - [EbMS core library](https://sourceforge.net/projects/javaebmsadmin/) and [mirror](https://github.com/eluinstra/ebms-core)
 
+## Grote Berichten Server & Client
+
+- [FileServer](https://github.com/eluinstra/file-server)
+- [FileClient](https://github.com/eluinstra/file-client)
+
 ## Digikoppeling Nationaal Archief
 
 ### Documentatie
@@ -30,12 +35,6 @@ Deze pagina bevat links naar open source software producten die kunnen worden in
 #### Installatie and Configuratie
 
 - [Installatie handleiding Digikoppeling Nationaal Archief](https://eluinstra.github.io/digikoppeling_na/)
-
-## Grote Berichten Server NEW (Work in progess)
-
-- [FileServer](https://github.com/eluinstra/file-server)
-- [FileClient](https://github.com/eluinstra/file-client)
-- [Grote Berichten FileServer](https://github.com/eluinstra/gbfs-core)
 
 ## EFacturen Tool
 
